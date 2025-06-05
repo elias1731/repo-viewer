@@ -1,11 +1,11 @@
-# altsource-viewer
+# sidestore source-viewer
 
 View your favorite AltStore source. 
 
 Made with vanilla HTML/CSS and JavaScript.
 
 ## Get started
-Simply paste the URL of an AltStore source to begin. [Try it here!](https://therealfoxster.github.io/altsource-viewer/)
+Simply paste the URL of an SideStore source to begin. [Original Project](https://therealfoxster.github.io/altsource-viewer/)
 
 > [!NOTE]
 > If a source can't be viewed, it is highly likely due to a CORS restriction set by the server hosting the JSON file. To my knowledge, a JSON file hosted on GitHub (via GitHub Pages) does not have this problem.
